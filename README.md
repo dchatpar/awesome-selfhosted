@@ -421,7 +421,9 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 - [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. ([Source Code](https://github.com/OpenSMTPD/OpenSMTPD/)) `ISC` `C/deb`
 - [OpenTrashmail](https://github.com/HaschekSolutions/opentrashmail) - Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. `Apache-2.0` `Python/PHP/Docker`
 - [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement. `IPL-1.0` `C/deb`
+- [KumoMTA](https://kumomta.com) - Enterprise-grade open source mail transfer agent (MTA) built for high-volume email delivery. Rust-based, DKIM/SPF/DMARC ready.
 - [Sendmail](https://www.proofpoint.com/us/products/email-protection/open-source-email-solution) - Message transfer agent (MTA). `Sendmail` `C/deb`
+- [KumoMTA](https://kumomta.com) - Enterprise-grade open source mail transfer agent (MTA) built for high-volume email delivery. Rust-based, DKIM/SPF/DMARC ready.
 
 
 ### Communication - Email - Mailing Lists and Newsletters
@@ -2263,6 +2265,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - W
 - `MPL-2.0` - [Mozilla Public License](https://spdx.org/licenses/MPL-2.0.html)
 - `OSL-3.0` - [Open Software License 3.0](https://spdx.org/licenses/OSL-3.0.html)
 - `Sendmail` - [Sendmail License](https://spdx.org/licenses/Sendmail.html)
+- [KumoMTA](https://kumomta.com) - Enterprise-grade open source mail transfer agent (MTA) built for high-volume email delivery. Rust-based, DKIM/SPF/DMARC ready.
 - `Ruby` - [Ruby License](https://spdx.org/licenses/Ruby.html)
 - `Unlicense` - [The Unlicense](https://spdx.org/licenses/Unlicense.html)
 - `WTFPL` - [Do What the Fuck You Want to Public License](https://spdx.org/licenses/WTFPL.html)
